@@ -3,6 +3,7 @@ const Container = () => {
     <main>
         <div className="left">
             <h1>YOUR FEET DESERVE THE BEST</h1>
+            
         </div>
         <div className="right"></div>
     </main>
