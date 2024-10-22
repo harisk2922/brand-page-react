@@ -37,4 +37,5 @@ button {
 
 .hero {
   display: flex;
+  align-items: center;
 }
