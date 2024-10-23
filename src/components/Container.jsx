@@ -18,7 +18,7 @@ const Container = () => {
                 </div>
             </div>
             <div className="right">
-                <img src="/shoe_image.png" alt="shoe-image" />
+                <img src="{`${process.env.PUBLIC_URL}/images/shoe_image.png`}" alt="shoe-image" />
             </div>
         </main>
     )
